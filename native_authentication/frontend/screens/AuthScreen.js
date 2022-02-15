@@ -80,7 +80,7 @@ const AuthScreen = () => {
     }
 
     return (
-        <ImageBackground source={require('../public/images/gradient-back.jpeg')} style={styles.image}>
+        <ImageBackground source={require('../public/images/background3.jpg')} style={styles.image}>
             <View style={styles.card}>
                 <Text style={styles.heading}>{isLogin ? 'Login' : 'Signup'}</Text>
                 <View style={styles.form}>
