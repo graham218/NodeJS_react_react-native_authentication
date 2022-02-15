@@ -6,6 +6,8 @@
   "author": "grahambill011@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
     "sequelize-cli": "^6.4.1"
   }
 }
