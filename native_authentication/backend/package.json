@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "node backend",
+  "main": "index.js",
+  "author": "grahambill011@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
